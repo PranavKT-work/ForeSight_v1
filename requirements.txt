@@ -1,3 +1,4 @@
+--prefer-binary
 streamlit==1.35.0
 xgboost==3.2.0
 scikit-learn==1.6.1
