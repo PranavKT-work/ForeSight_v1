@@ -1,0 +1,247 @@
+feature,mean_abs_shap
+age,0.18400937
+sbp,0.08164817
+Nonrheumatic aortic valve disorders,0.07924782
+RDW,0.07630524
+weight,0.07068874
+Hemoglobin,0.067977436
+Creatinine,0.06253386
+Magnesium,0.061374176
+Bicarbonate,0.059133947
+resprate,0.059007425
+heartrate,0.05889767
+Phosphate,0.057502992
+Anemia in chronic diseases classified elsewhere,0.05478712
+Potassium,0.05267058
+Platelet Count_abnormal_flag,0.05034429
+White Blood Cells,0.049794454
+missing_Thyroid Stimulating Hormone,0.0466683
+Red Blood Cells,0.043345425
+Platelet Count,0.04147207
+height,0.040833283
+Glucose,0.040124126
+Anion Gap,0.038718108
+MCV,0.03663927
+Chronic kidney disease (CKD),0.03615138
+Chloride,0.03498098
+PTT,0.02806248
+PT,0.027261771
+Creatine Kinase (CK),0.027073935
+Red Blood Cells_abnormal_flag,0.02532697
+pH,0.024549374
+temperature,0.02392307
+Urea Nitrogen,0.023432054
+Glucose_normalized_value,0.023179203
+MCHC,0.022765862
+Lymphocytes,0.022319045
+MCH,0.02227489
+missing_Ferritin,0.019250164
+dbp,0.01923004
+Other specified diabetes mellitus,0.018665237
+Type 2 diabetes mellitus,0.018593322
+Neutrophils,0.017084684
+Creatine Kinase (CK)_abnormal_flag,0.015540601
+Albumin,0.015096817
+Lymphocytes_abnormal_flag,0.014939699
+Hematocrit_abnormal_flag,0.013585456
+acuity,0.013237998
+INR(PT),0.013117049
+Thyroid Stimulating Hormone,0.013020471
+Acute myocardial infarction,0.012631185
+Sodium,0.0122527685
+Hematocrit,0.011694363
+o2sat,0.011269576
+Disorders of lipoprotein metabolism and other lipidemias,0.010815375
+Bicarbonate_normalized_value,0.010386576
+Phosphate_normalized_value,0.009810022
+PTT_abnormal_flag,0.009584281
+pO2,0.009181229
+pCO2,0.0088629415
+Depressive episode,0.008633589
+PT_abnormal_flag,0.008592122
+"Creatine Kinase, MB Isoenzyme",0.008446202
+Troponin T,0.00783508
+Potassium_normalized_value,0.007532041
+missing_Neutrophils,0.0074421205
+missing_Lactate,0.007308095
+PTT_normalized_value,0.0068217735
+Chronic ischemic heart disease,0.0067308606
+marital_status_SINGLE,0.0066668047
+gender_male,0.006479022
+"Calcium, Total",0.0064053186
+Ferritin,0.006399714
+Platelet Count_normalized_value,0.0062176962
+Other pulmonary heart diseases,0.005988914
+Anion Gap_normalized_value,0.0059460048
+Cardiomyopathy,0.0055332794
+Hemoglobin_normalized_value,0.0053866296
+"Calcium, Total_abnormal_flag",0.005331233
+PT_normalized_value,0.005277157
+Hypertensive chronic kidney disease,0.005187507
+missing_pH,0.0050804205
+discharge_loc_post_acute_care,0.0049077338
+MCH_abnormal_flag,0.0048449584
+Other anxiety disorders,0.004535495
+Lactate,0.0044485093
+Acute kidney failure,0.004436641
+Urea Nitrogen_normalized_value,0.0042606387
+White Blood Cells_normalized_value,0.0042139525
+Creatinine_abnormal_flag,0.004177152
+Overweight and obesity,0.0040648547
+missing_RBC,0.004034112
+Base Excess,0.0039611594
+Creatine Kinase (CK)_normalized_value,0.003891757
+Other anemias,0.0038779848
+WBC,0.003778161
+INR(PT)_normalized_value,0.0036928474
+Chloride_abnormal_flag,0.0036097453
+marital_status_WIDOWED,0.003363709
+Creatinine_normalized_value,0.0032267594
+NTproBNP,0.003155859
+INR(PT)_abnormal_flag,0.003010914
+Troponin T_abnormal_flag,0.003002522
+missing_Albumin,0.0029609557
+WBC_abnormal_flag,0.0029233063
+Hematocrit_normalized_value,0.0029094114
+RDW_normalized_value,0.0026728862
+Troponin T_normalized_value,0.002477823
+Essential (primary) hypertension,0.0024410405
+Chloride_normalized_value,0.0024280671
+MCH_normalized_value,0.002321115
+White Blood Cells_abnormal_flag,0.002315132
+MCHC_normalized_value,0.0022940547
+Lactate Dehydrogenase (LD),0.002185658
+Atrial fibrillation and flutter,0.0021523142
+missing_Lactate Dehydrogenase (LD),0.002025032
+missing_Lymphocytes,0.001976081
+Bicarbonate_abnormal_flag,0.0019599008
+pCO2_normalized_value,0.0018785757
+missing_Troponin T,0.0018509196
+missing_RDW-SD,0.0017248195
+"Calcium, Total_normalized_value",0.0016775526
+Red Blood Cells_normalized_value,0.0016021595
+missing_NTproBNP,0.0014820977
+missing_INR(PT),0.0014486356
+marital_status_DIVORCED,0.0014474877
+missing_WBC,0.0014430676
+missing_Creatine Kinase (CK),0.0014163362
+pO2_normalized_value,0.0014046433
+Lymphocytes_normalized_value,0.0013834722
+Magnesium_normalized_value,0.0013198274
+Glucose_abnormal_flag,0.0012780563
+Ferritin_normalized_value,0.0012677788
+Sodium_normalized_value,0.0012076055
+discharge_loc_Home,0.0011223168
+Other chronic obstructive pulmonary disease,0.0010943115
+MCHC_abnormal_flag,0.0009643356
+MCV_normalized_value,0.0009241648
+Hemoglobin_abnormal_flag,0.0008514837
+RBC_normalized_value,0.0
+Thyroid Stimulating Hormone_normalized_value,0.0
+RDW-SD,0.0
+Neutrophils_normalized_value,0.0
+Oxygen Saturation,0.0
+RBC,0.0
+Lactate Dehydrogenase (LD)_normalized_value,0.0
+Lactate_normalized_value,0.0
+Albumin_normalized_value,0.0
+"Creatine Kinase, MB Isoenzyme_normalized_value",0.0
+NTproBNP_normalized_value,0.0
+RDW-SD_normalized_value,0.0
+WBC_normalized_value,0.0
+missing_Chloride,0.0
+"missing_Calcium, Total",0.0
+missing_Base Excess,0.0
+missing_Bicarbonate,0.0
+Anion Gap_abnormal_flag,0.0
+marital_status_MISSING,0.0
+Albumin_abnormal_flag,0.0
+missing_Anion Gap,0.0
+discharge_loc_missing,0.0
+pH_normalized_value,0.0
+fever_flag,0.0
+hypothermia_flag,0.0
+emergency_adm,0.0
+discharge_loc_hospice,0.0
+discharge_loc_acute_hospital,0.0
+discharge_loc_other,0.0
+Heart failure,0.0
+NTproBNP_abnormal_flag,0.0
+missing_Magnesium,0.0
+Magnesium_abnormal_flag,0.0
+missing_MCHC,0.0
+missing_MCV,0.0
+Lactate Dehydrogenase (LD)_abnormal_flag,0.0
+missing_MCH,0.0
+Lactate_abnormal_flag,0.0
+missing_Creatinine,0.0
+"missing_Creatine Kinase, MB Isoenzyme",0.0
+MCV_abnormal_flag,0.0
+missing_Hemoglobin,0.0
+missing_Hematocrit,0.0
+missing_Glucose,0.0
+Ferritin_abnormal_flag,0.0
+missing_White Blood Cells,0.0
+Urea Nitrogen_abnormal_flag,0.0
+Thyroid Stimulating Hormone_abnormal_flag,0.0
+missing_Urea Nitrogen,0.0
+missing_Red Blood Cells,0.0
+RDW-SD_abnormal_flag,0.0
+missing_Sodium,0.0
+Sodium_abnormal_flag,0.0
+RDW_abnormal_flag,0.0
+missing_PTT,0.0
+missing_Platelet Count,0.0
+Phosphate_abnormal_flag,0.0
+missing_Potassium,0.0
+Potassium_abnormal_flag,0.0
+RBC_abnormal_flag,0.0
+missing_RDW,0.0
+Neutrophils_abnormal_flag,0.0
+missing_PT,0.0
+missing_Oxygen Saturation,0.0
+missing_Phosphate,0.0
+"Creatine Kinase, MB Isoenzyme_abnormal_flag",0.0
+Atrioventricular and left bundle-branch block,0.0
+missing_pO2,0.0
+Cocaine related disorders,0.0
+Epilepsy and recurrent seizures,0.0
+Asthma,0.0
+Alcohol related disorders,0.0
+Angina pectoris,0.0
+pCO2_abnormal_flag,0.0
+pH_abnormal_flag,0.0
+pO2_abnormal_flag,0.0
+missing_pCO2,0.0
+Multiple valve diseases,0.0
+Iron deficiency anemia,0.0
+Hypertensive heart disease,0.0
+Hypertensive heart and chronic kidney disease,0.0
+Fibrosis and cirrhosis of liver,0.0
+Disorders of mineral metabolism,0.0
+Disorders resulting from impaired renal tubular function,0.0
+Nonrheumatic tricuspid valve disorders,0.0
+Other coagulation defects,0.0
+Other cardiac arrhythmias,0.0
+Other conduction disorders,0.0
+Other diseases of liver,0.0
+Other hypothyroidism,0.0
+"Other disorders of kidney and ureter, not elsewhere classified",0.0
+Other acute ischemic heart diseases,0.0
+Nonrheumatic mitral valve disorders,0.0
+Other sepsis_x,0.0
+Other interstitial pulmonary diseases,0.0
+"Pneumonia, unspecified organism",0.0
+Paroxysmal tachycardia,0.0
+Retention of urine,0.0
+Rheumatic tricuspid valve diseases,0.0
+Sequelae of cerebrovascular disease,0.0
+"Respiratory failure, not elsewhere classified",0.0
+Type 1 diabetes mellitus,0.0
+Volume depletion,0.0
+Acute respiratory distress syndrome,0.0
+Cardiac arrest,0.0
+Cerebral infarction,0.0
+Other sepsis_y,0.0
+Pulmonary embolism,0.0
+Other sepsis,0.0
