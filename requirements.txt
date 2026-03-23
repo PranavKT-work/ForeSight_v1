@@ -1,8 +1,7 @@
---prefer-binary
-streamlit==1.35.0
-xgboost==3.2.0
-scikit-learn==1.6.1
-joblib==1.4.2
-numpy==1.26.4
-pandas==2.2.2
-matplotlib==3.9.0
+streamlit
+xgboost
+scikit-learn
+joblib
+numpy
+pandas
+matplotlib
